@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Pratik Khulge
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pratikkhulge/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:pratikkhulge@gmail.com)
 [![Website](https://img.shields.io/badge/-Website-brightgreen?style=flat&logo=Google-Chrome&logoColor=white)](link)
 
 I'm a passionate full-stack developer with a love for building innovative solutions to real-world problems. Welcome to my GitHub profile!
@@ -28,22 +28,16 @@ Here are some of the technologies I work with:
 
 Take a look at some of my notable projects:
 
-1. [Project Name](link): Brief description of the project.
-2. [Project Name](link): Brief description of the project.
-3. [Project Name](link): Brief description of the project.
+1. [Rail Sathi](https://github.com/pratikkhulge/RailSathi): RailSathi is an Express.js-based web application that offers API functionality for checking PNR status and finding trains between stations, providing users with convenient access to essential railway information..
+2. [QuizBolt](https://github.com/pratikkhulge/QuizBolt): QuizzBolt is an API-driven web app offering diverse quizzes across fields for users to engage and test their knowledge.
+3. [Newss](https://github.com/pratikkhulge/Newss): NewsBolt is a prototype API-based web application offering users access to news from various countries, languages, and topics, providing a comprehensive platform for diverse news consumption.
+4. [pFood](https://github.com/pratikkhulge/pFood): pFood is a vibrant web application offering an immersive dining experience with rich styles, animations, and an array of interactive features.
 
-## Open Source Contributions
-
-I'm passionate about contributing to open-source projects. Here are some of my contributions:
-
-1. [Project Name](link): Brief description of the contribution.
-2. [Project Name](link): Brief description of the contribution.
-3. [Project Name](link): Brief description of the contribution.
 
 ## Let's Connect
 
-- 🔗 LinkedIn: [https://www.linkedin.com/in/pratikkhulge](link)
+- 🔗 LinkedIn: [Pratik_Khulge](https://www.linkedin.com/in/pratikkhulge)
 - 📧 Email: [Pratikkhulge2003@gmail.com](mailto:Pratikkhulge2003@gmail.com)
-- 🌐 Website: [Your Website](link)
+- 🌐 Website: [Website](link)
 
 Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to say hi! 😊
