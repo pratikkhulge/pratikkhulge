@@ -39,6 +39,6 @@ Take a look at some of my notable projects:
 
 - 🔗 LinkedIn: [Pratik_Khulge](https://www.linkedin.com/in/pratikkhulge)
 - 📧 Email: [Pratikkhulge2003@gmail.com](mailto:Pratikkhulge2003@gmail.com)
-- 🌐 Website: [Website](https://pratikkhulgeportfolio.netlify.app/)
+- 🌐 Website: [Portfolio](https://pratikkhulgeportfolio.netlify.app/)
 
 Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to say hi! 😊
