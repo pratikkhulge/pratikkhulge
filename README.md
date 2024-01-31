@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pratikkhulge/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:pratikkhulge@gmail.com)
-[![Website](https://img.shields.io/badge/-Website-brightgreen?style=flat&logo=Google-Chrome&logoColor=white)](link)
+[![Website](https://img.shields.io/badge/-Website-brightgreen?style=flat&logo=Google-Chrome&logoColor=white)](https://pratikkhulgeportfolio.netlify.app/)
 
 I'm a passionate full-stack developer with a love for building innovative solutions to real-world problems. Welcome to my GitHub profile!
 
@@ -39,6 +39,6 @@ Take a look at some of my notable projects:
 
 - 🔗 LinkedIn: [Pratik_Khulge](https://www.linkedin.com/in/pratikkhulge)
 - 📧 Email: [Pratikkhulge2003@gmail.com](mailto:Pratikkhulge2003@gmail.com)
-- 🌐 Website: [Website](link)
+- 🌐 Website: [Website](https://pratikkhulgeportfolio.netlify.app/)
 
 Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to say hi! 😊
