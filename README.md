@@ -33,7 +33,7 @@ Take a look at some of my notable projects:
 3. [Newss](https://github.com/pratikkhulge/Newss): NewsBolt is a prototype API-based web application offering users access to news from various countries, languages, and topics, providing a comprehensive platform for diverse news consumption.
 4. [pFood](https://github.com/pratikkhulge/pFood): pFood is a vibrant web application offering an immersive dining experience with rich styles, animations, and an array of interactive features.
 
-![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikkhulge&show_icons=true&theme=radical)  ![GitHub Streak](https://streak-stats.demolab.com/?user=pratikkhulge&theme=dark)
+![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikkhulge&show_icons=true&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com/?user=pratikkhulge&theme=dark)
 
 ## Let's Connect
 
